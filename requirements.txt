@@ -8,7 +8,7 @@ chardet==3.0.4
 colorama==0.4.3
 configparser==4.0.2
 constantly==15.1.0
-cryptography==2.9.2
+cryptography==3.2
 cssselect==1.1.0
 decorator==4.4.2
 hyperlink==19.0.0
